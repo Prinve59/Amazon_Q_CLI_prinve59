@@ -1,0 +1,17 @@
+{
+    "sound_enabled": true,
+    "music_volume": 0.5,
+    "sfx_volume": 0.7,
+    "crosshair_color": [
+        255,
+        70,
+        85
+    ],
+    "crosshair_style": "default",
+    "crosshair_size": 16,
+    "show_fps": true,
+    "show_stats": true,
+    "fullscreen": false,
+    "mouse_sensitivity": 1.0,
+    "click_threshold": 5
+}

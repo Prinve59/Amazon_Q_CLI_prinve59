@@ -1,0 +1,24 @@
+{
+    "flick": {
+        "easy": [
+            {
+                "score": 2000,
+                "accuracy": 47.82608695652174,
+                "reaction_time": 1432.2272727272727,
+                "targets_hit": 44,
+                "targets_missed": 48,
+                "headshots": 8,
+                "date": "2025-05-24 09:54"
+            },
+            {
+                "score": 400,
+                "accuracy": 35.92233009708738,
+                "reaction_time": 1750.2432432432433,
+                "targets_hit": 37,
+                "targets_missed": 66,
+                "headshots": 13,
+                "date": "2025-05-24 10:10"
+            }
+        ]
+    }
+}
